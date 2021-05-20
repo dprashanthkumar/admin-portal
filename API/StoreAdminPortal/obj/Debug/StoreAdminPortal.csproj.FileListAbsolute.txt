@@ -1,0 +1,176 @@
+C:\test\API\StoreAdminPortal\bin\StoreAdminPortal.dll.config
+C:\test\API\StoreAdminPortal\bin\StoreAdminPortal.dll
+C:\test\API\StoreAdminPortal\bin\StoreAdminPortal.pdb
+C:\test\API\StoreAdminPortal\bin\roslyn\csc.exe
+C:\test\API\StoreAdminPortal\bin\roslyn\csc.exe.config
+C:\test\API\StoreAdminPortal\bin\roslyn\csc.rsp
+C:\test\API\StoreAdminPortal\bin\roslyn\csi.exe
+C:\test\API\StoreAdminPortal\bin\roslyn\csi.exe.config
+C:\test\API\StoreAdminPortal\bin\roslyn\csi.rsp
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\test\API\StoreAdminPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.AppContext.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Console.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.IO.Compression.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Net.Http.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Net.Sockets.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.ValueTuple.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Xml.XPath.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\test\API\StoreAdminPortal\bin\roslyn\vbc.exe
+C:\test\API\StoreAdminPortal\bin\roslyn\vbc.exe.config
+C:\test\API\StoreAdminPortal\bin\roslyn\vbc.rsp
+C:\test\API\StoreAdminPortal\bin\roslyn\VBCSCompiler.exe
+C:\test\API\StoreAdminPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\test\API\StoreAdminPortal\bin\Antlr3.Runtime.dll
+C:\test\API\StoreAdminPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\test\API\StoreAdminPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\test\API\StoreAdminPortal\bin\Newtonsoft.Json.dll
+C:\test\API\StoreAdminPortal\bin\System.Net.Http.Formatting.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Helpers.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.WebHost.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Mvc.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Optimization.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Razor.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.Deployment.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.Razor.dll
+C:\test\API\StoreAdminPortal\bin\WebGrease.dll
+C:\test\API\StoreAdminPortal\bin\Newtonsoft.Json.xml
+C:\test\API\StoreAdminPortal\bin\System.Net.Http.Formatting.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Helpers.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.WebHost.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Mvc.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Optimization.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.Razor.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.Deployment.xml
+C:\test\API\StoreAdminPortal\bin\System.Web.WebPages.Razor.xml
+C:\test\API\StoreAdminPortal\bin\Antlr3.Runtime.pdb
+C:\test\API\StoreAdminPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\test\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csprojAssemblyReference.cache
+C:\test\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csproj.CoreCompileInputs.cache
+C:\test\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csproj.CopyComplete
+C:\test\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.dll
+C:\test\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.pdb
+C:\test\API\StoreAdminPortal\bin\System.Web.Cors.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.Cors.dll
+C:\test\API\StoreAdminPortal\bin\System.Web.Http.Cors.xml
+C:\store admin portal\API\StoreAdminPortal\bin\StoreAdminPortal.dll.config
+C:\store admin portal\API\StoreAdminPortal\bin\StoreAdminPortal.dll
+C:\store admin portal\API\StoreAdminPortal\bin\StoreAdminPortal.pdb
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csc.exe
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csc.exe.config
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csc.rsp
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csi.exe
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csi.exe.config
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\csi.rsp
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.AppContext.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Console.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.IO.Compression.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Net.Http.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Net.Sockets.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.ValueTuple.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Xml.XPath.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\vbc.exe
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\vbc.exe.config
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\vbc.rsp
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\VBCSCompiler.exe
+C:\store admin portal\API\StoreAdminPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\store admin portal\API\StoreAdminPortal\bin\Antlr3.Runtime.dll
+C:\store admin portal\API\StoreAdminPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\store admin portal\API\StoreAdminPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\store admin portal\API\StoreAdminPortal\bin\Newtonsoft.Json.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Net.Http.Formatting.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Cors.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Helpers.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.Cors.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.WebHost.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Mvc.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Optimization.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Razor.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.Deployment.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.Razor.dll
+C:\store admin portal\API\StoreAdminPortal\bin\WebGrease.dll
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.Cors.xml
+C:\store admin portal\API\StoreAdminPortal\bin\Newtonsoft.Json.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Net.Http.Formatting.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Helpers.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Http.WebHost.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Mvc.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Optimization.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.Razor.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.Deployment.xml
+C:\store admin portal\API\StoreAdminPortal\bin\System.Web.WebPages.Razor.xml
+C:\store admin portal\API\StoreAdminPortal\bin\Antlr3.Runtime.pdb
+C:\store admin portal\API\StoreAdminPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\store admin portal\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csprojAssemblyReference.cache
+C:\store admin portal\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csproj.CoreCompileInputs.cache
+C:\store admin portal\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.csproj.CopyComplete
+C:\store admin portal\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.dll
+C:\store admin portal\API\StoreAdminPortal\obj\Debug\StoreAdminPortal.pdb
